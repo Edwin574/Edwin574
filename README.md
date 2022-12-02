@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edwin574
+- 👋 Hi, I’m Edwin
 - 👀 I’m interested in learning and collaboarting in projects
 - 🌱 I’m currently learning Python programming language and Javascript
 - 💞️ I’m looking to collaborate on open source and any projects

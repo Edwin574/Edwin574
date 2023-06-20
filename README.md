@@ -1,16 +1,10 @@
-👋 Hi, I’m Edwin
+# 👋 Hi, I’m Edwin, a Front-End Developer and Data Science Enthusiast
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Edwin574&show_icons=true&theme=highcontrast'/>
 
 <img align='left' width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin574&langs_count=8&layout=compact&theme=highcontrast'/>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <hr style="border-top: 1px solid purple;">
 

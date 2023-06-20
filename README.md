@@ -1,8 +1,8 @@
 👋 Hi, I’m Edwin
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Edwin574&show_icons=true&theme=highcontrast'/>
+<img align='left' width='48%' src='https://github-readme-stats.vercel.app/api?username=Edwin574&show_icons=true&theme=highcontrast'/>
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin574&langs_count=8&layout=compact&theme=highcontrast'/>
+<img align='left' width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin574&langs_count=8&layout=compact&theme=highcontrast'/>
 
 ### PROGRAMMING LANGUIAGES
 

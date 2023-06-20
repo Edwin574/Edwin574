@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Edwin, a Front-End Developer and Data Science Enthusiast
 
+<br>
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Edwin574&show_icons=true&theme=highcontrast'/>
 
 <img width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin574&langs_count=8&layout=compact&theme=highcontrast'/>
@@ -17,7 +18,7 @@
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-
+<hr style="border-top: 1px solid purple; width="50%">
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -39,3 +40,4 @@
 <img align="left" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
 <img  src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<hr style="border-top: 1px solid purple;">

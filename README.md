@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Edwin, a Front-End Developer and Data Science Enthusiast
 
 <br>
-<a  href="https://app.daily.dev/Edwin574"><img align="left" src="https://api.daily.dev/devcards/c5dcf534484f44a682b065e8a9f6aa4f.png?r=4e9" width="400" alt="Edwin Owino's Dev Card"/></a>
+<a  href="https://app.daily.dev/Edwin574"><img align="right" src="https://api.daily.dev/devcards/c5dcf534484f44a682b065e8a9f6aa4f.png?r=4e9" width="400" alt="Edwin Owino's Dev Card"/></a>
 
 <img width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin574&langs_count=8&layout=compact&theme=highcontrast'/>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwin574&show_icons=true&theme=radical)
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwin574&show_icons=true&theme=radical)
 ### PROGRAMMING LANGUAGES / TECHNOLOGIES / TOOLS
 <hr style="border: 1px solid white;">
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">

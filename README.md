@@ -36,3 +36,5 @@
 <img  align="left" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <hr style="border-top: 1px solid purple;">
+
+[![wakatime](https://wakatime.com/badge/user/3acef647-d911-4982-a369-034414091f9d.svg)](https://wakatime.com/@3acef647-d911-4982-a369-034414091f9d)

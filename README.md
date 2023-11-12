@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Edwin, a Front-End Developer and Data Science Enthusiast
 
 <br>
-<a  href="https://app.daily.dev/Edwin574"><img align="left" src="https://api.daily.dev/devcards/c5dcf534484f44a682b065e8a9f6aa4f.png?r=4e9" width="400" alt="Edwin Owino's Dev Card"/></a>
-
+<!-- <a  href="https://app.daily.dev/Edwin574"><img align="left" src="https://api.daily.dev/devcards/c5dcf534484f44a682b065e8a9f6aa4f.png?r=4e9" width="400" alt="Edwin Owino's Dev Card"/></a>
+ -->
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwin574&show_icons=true&theme=radical)
 
 ### PROGRAMMING LANGUAGES / TECHNOLOGIES / TOOLS

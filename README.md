@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Edwin, a Front-End Developer and Data Science Enthusiast
+# 👋 Hi, I’m Edwin, a Software Engineer
 
 <br>
 <!-- <a  href="https://app.daily.dev/Edwin574"><img align="left" src="https://api.daily.dev/devcards/c5dcf534484f44a682b065e8a9f6aa4f.png?r=4e9" width="400" alt="Edwin Owino's Dev Card"/></a>
